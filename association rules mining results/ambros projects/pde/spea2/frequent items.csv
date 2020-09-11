@@ -1,0 +1,52 @@
+support,itemsets
+0.5935483870967742,frozenset({'codeChurnUntil:'})
+0.34838709677419355,frozenset({'avgCodeChurnUntil:'})
+0.3419354838709677,frozenset({'weightedAgeWithRespectTo:'})
+0.47096774193548385,frozenset({'maxLinesRemovedUntil:'})
+0.4838709677419355,frozenset({'avgLinesAddedUntil:'})
+0.5935483870967742,frozenset({'linesRemovedUntil:'})
+0.7419354838709677,frozenset({'numberOfVersionsUntil:'})
+0.3548387096774194,frozenset({'numberOfFixesUntil:'})
+0.44516129032258067,frozenset({'maxLinesAddedUntil:'})
+0.4774193548387097,frozenset({'ageWithRespectTo:'})
+0.4064516129032258,frozenset({'numberOfAuthorsUntil:'})
+0.6387096774193548,frozenset({'numberOfRefactoringsUntil:'})
+0.3741935483870968,frozenset({'avgLinesRemovedUntil:'})
+0.45806451612903226,frozenset({'maxCodeChurnUntil:'})
+0.6838709677419355,frozenset({'linesAddedUntil:'})
+0.3225806451612903,"frozenset({'maxLinesRemovedUntil:', 'codeChurnUntil:'})"
+0.36774193548387096,"frozenset({'codeChurnUntil:', 'linesRemovedUntil:'})"
+0.45161290322580644,"frozenset({'numberOfVersionsUntil:', 'codeChurnUntil:'})"
+0.3161290322580645,"frozenset({'ageWithRespectTo:', 'codeChurnUntil:'})"
+0.3419354838709677,"frozenset({'numberOfRefactoringsUntil:', 'codeChurnUntil:'})"
+0.32903225806451614,"frozenset({'codeChurnUntil:', 'maxCodeChurnUntil:'})"
+0.4129032258064516,"frozenset({'codeChurnUntil:', 'linesAddedUntil:'})"
+0.3741935483870968,"frozenset({'numberOfVersionsUntil:', 'maxLinesRemovedUntil:'})"
+0.36129032258064514,"frozenset({'maxLinesRemovedUntil:', 'linesAddedUntil:'})"
+0.3032258064516129,"frozenset({'avgLinesAddedUntil:', 'linesRemovedUntil:'})"
+0.3548387096774194,"frozenset({'numberOfVersionsUntil:', 'avgLinesAddedUntil:'})"
+0.3225806451612903,"frozenset({'ageWithRespectTo:', 'avgLinesAddedUntil:'})"
+0.32903225806451614,"frozenset({'numberOfRefactoringsUntil:', 'avgLinesAddedUntil:'})"
+0.3032258064516129,"frozenset({'avgLinesAddedUntil:', 'maxCodeChurnUntil:'})"
+0.41935483870967744,"frozenset({'avgLinesAddedUntil:', 'linesAddedUntil:'})"
+0.44516129032258067,"frozenset({'numberOfVersionsUntil:', 'linesRemovedUntil:'})"
+0.3161290322580645,"frozenset({'maxLinesAddedUntil:', 'linesRemovedUntil:'})"
+0.34838709677419355,"frozenset({'ageWithRespectTo:', 'linesRemovedUntil:'})"
+0.38064516129032255,"frozenset({'numberOfRefactoringsUntil:', 'linesRemovedUntil:'})"
+0.432258064516129,"frozenset({'linesAddedUntil:', 'linesRemovedUntil:'})"
+0.32903225806451614,"frozenset({'numberOfVersionsUntil:', 'maxLinesAddedUntil:'})"
+0.38064516129032255,"frozenset({'numberOfVersionsUntil:', 'ageWithRespectTo:'})"
+0.3096774193548387,"frozenset({'numberOfVersionsUntil:', 'numberOfAuthorsUntil:'})"
+0.4645161290322581,"frozenset({'numberOfVersionsUntil:', 'numberOfRefactoringsUntil:'})"
+0.3548387096774194,"frozenset({'numberOfVersionsUntil:', 'maxCodeChurnUntil:'})"
+0.4838709677419355,"frozenset({'numberOfVersionsUntil:', 'linesAddedUntil:'})"
+0.3225806451612903,"frozenset({'maxLinesAddedUntil:', 'numberOfRefactoringsUntil:'})"
+0.3870967741935484,"frozenset({'ageWithRespectTo:', 'linesAddedUntil:'})"
+0.3161290322580645,"frozenset({'linesAddedUntil:', 'numberOfAuthorsUntil:'})"
+0.4645161290322581,"frozenset({'numberOfRefactoringsUntil:', 'linesAddedUntil:'})"
+0.34838709677419355,"frozenset({'maxCodeChurnUntil:', 'linesAddedUntil:'})"
+0.3096774193548387,"frozenset({'numberOfVersionsUntil:', 'codeChurnUntil:', 'linesAddedUntil:'})"
+0.3096774193548387,"frozenset({'numberOfVersionsUntil:', 'avgLinesAddedUntil:', 'linesAddedUntil:'})"
+0.3096774193548387,"frozenset({'numberOfVersionsUntil:', 'linesAddedUntil:', 'linesRemovedUntil:'})"
+0.3096774193548387,"frozenset({'numberOfVersionsUntil:', 'ageWithRespectTo:', 'linesAddedUntil:'})"
+0.3161290322580645,"frozenset({'numberOfVersionsUntil:', 'numberOfRefactoringsUntil:', 'linesAddedUntil:'})"
