@@ -1,0 +1,54 @@
+support,itemsets
+0.43870967741935485,frozenset({'PAR_avg'})
+0.36129032258064514,frozenset({'NBD_sum'})
+0.43870967741935485,frozenset({'VG_max'})
+0.3741935483870968,frozenset({'NOM_max'})
+0.32903225806451614,frozenset({'NSF_avg'})
+0.33548387096774196,frozenset({'NOF_avg'})
+0.34838709677419355,frozenset({'FOUT_sum'})
+0.4774193548387097,frozenset({'VG_sum'})
+0.432258064516129,frozenset({'NSF_max'})
+0.45161290322580644,frozenset({'FOUT_max'})
+0.36774193548387096,frozenset({'NBD_avg'})
+0.43870967741935485,frozenset({'ACD'})
+0.4064516129032258,frozenset({'MLOC_avg'})
+0.5870967741935483,frozenset({'TLOC'})
+0.3935483870967742,frozenset({'PAR_max'})
+0.45161290322580644,frozenset({'MLOC_max'})
+0.4645161290322581,frozenset({'NBD_max'})
+0.9741935483870968,frozenset({'pre'})
+0.567741935483871,frozenset({'MLOC_sum'})
+0.47096774193548385,frozenset({'VG_avg'})
+0.3935483870967742,frozenset({'NOM_sum'})
+0.4258064516129032,"frozenset({'PAR_avg', 'pre'})"
+0.36129032258064514,"frozenset({'NBD_sum', 'pre'})"
+0.432258064516129,"frozenset({'VG_max', 'pre'})"
+0.36129032258064514,"frozenset({'pre', 'NOM_max'})"
+0.3225806451612903,"frozenset({'pre', 'NSF_avg'})"
+0.32903225806451614,"frozenset({'pre', 'NOF_avg'})"
+0.33548387096774196,"frozenset({'pre', 'FOUT_sum'})"
+0.47096774193548385,"frozenset({'pre', 'VG_sum'})"
+0.432258064516129,"frozenset({'pre', 'NSF_max'})"
+0.432258064516129,"frozenset({'pre', 'FOUT_max'})"
+0.3548387096774194,"frozenset({'pre', 'NBD_avg'})"
+0.43870967741935485,"frozenset({'pre', 'ACD'})"
+0.3225806451612903,"frozenset({'ACD', 'MLOC_sum'})"
+0.3161290322580645,"frozenset({'ACD', 'VG_avg'})"
+0.4,"frozenset({'MLOC_avg', 'pre'})"
+0.567741935483871,"frozenset({'pre', 'TLOC'})"
+0.4,"frozenset({'TLOC', 'MLOC_sum'})"
+0.3870967741935484,"frozenset({'PAR_max', 'pre'})"
+0.44516129032258067,"frozenset({'pre', 'MLOC_max'})"
+0.45806451612903226,"frozenset({'pre', 'NBD_max'})"
+0.3225806451612903,"frozenset({'NBD_max', 'MLOC_sum'})"
+0.3161290322580645,"frozenset({'NBD_max', 'VG_avg'})"
+0.5548387096774193,"frozenset({'pre', 'MLOC_sum'})"
+0.4645161290322581,"frozenset({'pre', 'VG_avg'})"
+0.3870967741935484,"frozenset({'pre', 'NOM_sum'})"
+0.3741935483870968,"frozenset({'MLOC_sum', 'VG_avg'})"
+0.3225806451612903,"frozenset({'pre', 'ACD', 'MLOC_sum'})"
+0.3161290322580645,"frozenset({'pre', 'ACD', 'VG_avg'})"
+0.3935483870967742,"frozenset({'pre', 'TLOC', 'MLOC_sum'})"
+0.3225806451612903,"frozenset({'pre', 'NBD_max', 'MLOC_sum'})"
+0.3161290322580645,"frozenset({'pre', 'NBD_max', 'VG_avg'})"
+0.36774193548387096,"frozenset({'pre', 'MLOC_sum', 'VG_avg'})"

@@ -1,0 +1,13 @@
+support,itemsets
+0.3161290322580645,frozenset({'PAR_avg'})
+0.3032258064516129,frozenset({'NBD_sum'})
+0.32903225806451614,frozenset({'NOM_max'})
+0.3419354838709677,frozenset({'NOM_avg'})
+0.3548387096774194,frozenset({'FOUT_avg'})
+0.34838709677419355,frozenset({'FOUT_sum'})
+0.8838709677419355,frozenset({'pre'})
+0.3161290322580645,frozenset({'MLOC_sum'})
+0.3548387096774194,frozenset({'NOM_sum'})
+0.3161290322580645,"frozenset({'pre', 'NOM_avg'})"
+0.3161290322580645,"frozenset({'FOUT_avg', 'pre'})"
+0.32903225806451614,"frozenset({'pre', 'NOM_sum'})"
