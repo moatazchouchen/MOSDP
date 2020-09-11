@@ -1,0 +1,20 @@
+support,itemsets
+0.33548387096774196,frozenset({'mfa'})
+0.6774193548387096,frozenset({'rfc'})
+0.44516129032258067,frozenset({'cbo'})
+0.3096774193548387,frozenset({'ic'})
+0.5161290322580645,frozenset({'cam'})
+0.3225806451612903,frozenset({'lcom3'})
+0.32903225806451614,frozenset({'npm'})
+0.3419354838709677,frozenset({'dit'})
+0.4064516129032258,frozenset({'amc'})
+0.44516129032258067,frozenset({'loc'})
+0.3161290322580645,frozenset({'lcom'})
+0.7225806451612903,frozenset({'ce'})
+0.3161290322580645,"frozenset({'rfc', 'cam'})"
+0.3032258064516129,"frozenset({'rfc', 'amc'})"
+0.3225806451612903,"frozenset({'rfc', 'loc'})"
+0.45161290322580644,"frozenset({'rfc', 'ce'})"
+0.3548387096774194,"frozenset({'cbo', 'ce'})"
+0.3741935483870968,"frozenset({'cam', 'ce'})"
+0.3419354838709677,"frozenset({'loc', 'ce'})"

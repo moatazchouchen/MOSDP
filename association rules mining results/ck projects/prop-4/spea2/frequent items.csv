@@ -1,0 +1,61 @@
+support,itemsets
+0.36774193548387096,frozenset({'avg_cc'})
+0.33548387096774196,frozenset({'moa'})
+0.34838709677419355,frozenset({'noc'})
+0.4064516129032258,frozenset({'mfa'})
+0.9096774193548387,frozenset({'rfc'})
+0.44516129032258067,frozenset({'cbo'})
+0.34838709677419355,frozenset({'max_cc'})
+0.3419354838709677,frozenset({'ic'})
+0.4129032258064516,frozenset({'dam'})
+0.4645161290322581,frozenset({'cam'})
+0.4258064516129032,frozenset({'lcom3'})
+0.5032258064516129,frozenset({'npm'})
+0.36774193548387096,frozenset({'ca'})
+0.45161290322580644,frozenset({'dit'})
+0.34838709677419355,frozenset({'cbm'})
+0.43870967741935485,frozenset({'amc'})
+0.5096774193548387,frozenset({'loc'})
+0.4,frozenset({'lcom'})
+0.6516129032258065,frozenset({'ce'})
+0.36129032258064514,"frozenset({'avg_cc', 'rfc'})"
+0.3225806451612903,"frozenset({'moa', 'rfc'})"
+0.3419354838709677,"frozenset({'rfc', 'noc'})"
+0.3870967741935484,"frozenset({'rfc', 'mfa'})"
+0.3032258064516129,"frozenset({'mfa', 'ce'})"
+0.432258064516129,"frozenset({'rfc', 'cbo'})"
+0.3096774193548387,"frozenset({'rfc', 'max_cc'})"
+0.33548387096774196,"frozenset({'ic', 'rfc'})"
+0.4,"frozenset({'dam', 'rfc'})"
+0.4064516129032258,"frozenset({'rfc', 'cam'})"
+0.3935483870967742,"frozenset({'lcom3', 'rfc'})"
+0.4774193548387097,"frozenset({'npm', 'rfc'})"
+0.3225806451612903,"frozenset({'ca', 'rfc'})"
+0.4258064516129032,"frozenset({'rfc', 'dit'})"
+0.32903225806451614,"frozenset({'cbm', 'rfc'})"
+0.41935483870967744,"frozenset({'rfc', 'amc'})"
+0.45806451612903226,"frozenset({'rfc', 'loc'})"
+0.38064516129032255,"frozenset({'rfc', 'lcom'})"
+0.567741935483871,"frozenset({'rfc', 'ce'})"
+0.3032258064516129,"frozenset({'npm', 'cbo'})"
+0.33548387096774196,"frozenset({'cbo', 'ce'})"
+0.33548387096774196,"frozenset({'dam', 'ce'})"
+0.3032258064516129,"frozenset({'npm', 'cam'})"
+0.3032258064516129,"frozenset({'cam', 'amc'})"
+0.3548387096774194,"frozenset({'cam', 'ce'})"
+0.3161290322580645,"frozenset({'lcom3', 'ce'})"
+0.3161290322580645,"frozenset({'npm', 'dit'})"
+0.3032258064516129,"frozenset({'npm', 'amc'})"
+0.38064516129032255,"frozenset({'npm', 'ce'})"
+0.3032258064516129,"frozenset({'ca', 'ce'})"
+0.3096774193548387,"frozenset({'loc', 'dit'})"
+0.3741935483870968,"frozenset({'amc', 'ce'})"
+0.36774193548387096,"frozenset({'loc', 'ce'})"
+0.3032258064516129,"frozenset({'npm', 'rfc', 'cbo'})"
+0.3225806451612903,"frozenset({'rfc', 'cbo', 'ce'})"
+0.3225806451612903,"frozenset({'dam', 'rfc', 'ce'})"
+0.3032258064516129,"frozenset({'rfc', 'cam', 'ce'})"
+0.3096774193548387,"frozenset({'npm', 'rfc', 'dit'})"
+0.3548387096774194,"frozenset({'npm', 'rfc', 'ce'})"
+0.3548387096774194,"frozenset({'rfc', 'amc', 'ce'})"
+0.3161290322580645,"frozenset({'rfc', 'loc', 'ce'})"
