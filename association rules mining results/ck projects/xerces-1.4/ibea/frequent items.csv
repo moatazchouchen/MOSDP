@@ -1,0 +1,31 @@
+support,itemsets
+0.4129032258064516,frozenset({'dam'})
+0.4967741935483871,frozenset({'avg_cc'})
+0.7870967741935484,frozenset({'cbo'})
+0.6129032258064516,frozenset({'lcom3'})
+0.7225806451612903,frozenset({'ce'})
+0.5225806451612903,frozenset({'amc'})
+0.47096774193548385,frozenset({'dit'})
+0.7290322580645161,frozenset({'cam'})
+0.5741935483870968,frozenset({'mfa'})
+0.5870967741935483,frozenset({'ca'})
+0.432258064516129,"frozenset({'avg_cc', 'cbo'})"
+0.4967741935483871,"frozenset({'lcom3', 'cbo'})"
+0.5096774193548387,"frozenset({'ce', 'cbo'})"
+0.4774193548387097,"frozenset({'amc', 'cbo'})"
+0.4129032258064516,"frozenset({'dit', 'cbo'})"
+0.5870967741935483,"frozenset({'cam', 'cbo'})"
+0.49032258064516127,"frozenset({'mfa', 'cbo'})"
+0.45806451612903226,"frozenset({'cbo', 'ca'})"
+0.4838709677419355,"frozenset({'ce', 'lcom3'})"
+0.5161290322580645,"frozenset({'lcom3', 'cam'})"
+0.4,"frozenset({'mfa', 'lcom3'})"
+0.5548387096774193,"frozenset({'ce', 'cam'})"
+0.432258064516129,"frozenset({'mfa', 'ce'})"
+0.44516129032258067,"frozenset({'ce', 'ca'})"
+0.45806451612903226,"frozenset({'mfa', 'cam'})"
+0.47096774193548385,"frozenset({'cam', 'ca'})"
+0.41935483870967744,"frozenset({'lcom3', 'cam', 'cbo'})"
+0.4129032258064516,"frozenset({'ce', 'cam', 'cbo'})"
+0.4,"frozenset({'mfa', 'cam', 'cbo'})"
+0.432258064516129,"frozenset({'ce', 'lcom3', 'cam'})"
