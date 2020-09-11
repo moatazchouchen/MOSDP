@@ -1,0 +1,59 @@
+support,itemsets
+0.49032258064516127,frozenset({'avg_cc'})
+0.3419354838709677,frozenset({'noc'})
+0.632258064516129,frozenset({'mfa'})
+0.3870967741935484,frozenset({'rfc'})
+0.6451612903225806,frozenset({'cbo'})
+0.32903225806451614,frozenset({'max_cc'})
+0.32903225806451614,frozenset({'ic'})
+0.3935483870967742,frozenset({'dam'})
+0.7032258064516129,frozenset({'cam'})
+0.7419354838709677,frozenset({'lcom3'})
+0.4,frozenset({'npm'})
+0.34838709677419355,frozenset({'ca'})
+0.45806451612903226,frozenset({'dit'})
+0.45161290322580644,frozenset({'cbm'})
+0.36774193548387096,frozenset({'amc'})
+0.3548387096774194,frozenset({'loc'})
+0.4258064516129032,frozenset({'ce'})
+0.3548387096774194,"frozenset({'avg_cc', 'mfa'})"
+0.34838709677419355,"frozenset({'avg_cc', 'cbo'})"
+0.4,"frozenset({'avg_cc', 'cam'})"
+0.3548387096774194,"frozenset({'avg_cc', 'lcom3'})"
+0.3032258064516129,"frozenset({'noc', 'mfa'})"
+0.3161290322580645,"frozenset({'noc', 'cam'})"
+0.4645161290322581,"frozenset({'cbo', 'mfa'})"
+0.4645161290322581,"frozenset({'cam', 'mfa'})"
+0.47096774193548385,"frozenset({'lcom3', 'mfa'})"
+0.3161290322580645,"frozenset({'npm', 'mfa'})"
+0.33548387096774196,"frozenset({'dit', 'mfa'})"
+0.3548387096774194,"frozenset({'cbm', 'mfa'})"
+0.32903225806451614,"frozenset({'mfa', 'ce'})"
+0.3032258064516129,"frozenset({'rfc', 'cam'})"
+0.3225806451612903,"frozenset({'lcom3', 'rfc'})"
+0.3032258064516129,"frozenset({'dam', 'cbo'})"
+0.5096774193548387,"frozenset({'cam', 'cbo'})"
+0.45161290322580644,"frozenset({'lcom3', 'cbo'})"
+0.33548387096774196,"frozenset({'npm', 'cbo'})"
+0.3870967741935484,"frozenset({'cbo', 'dit'})"
+0.33548387096774196,"frozenset({'cbm', 'cbo'})"
+0.5290322580645161,"frozenset({'lcom3', 'cam'})"
+0.34838709677419355,"frozenset({'npm', 'cam'})"
+0.3032258064516129,"frozenset({'ca', 'cam'})"
+0.33548387096774196,"frozenset({'cam', 'dit'})"
+0.3225806451612903,"frozenset({'cbm', 'cam'})"
+0.3225806451612903,"frozenset({'cam', 'ce'})"
+0.32903225806451614,"frozenset({'lcom3', 'npm'})"
+0.38064516129032255,"frozenset({'lcom3', 'dit'})"
+0.3548387096774194,"frozenset({'cbm', 'lcom3'})"
+0.3032258064516129,"frozenset({'lcom3', 'loc'})"
+0.33548387096774196,"frozenset({'lcom3', 'ce'})"
+0.3032258064516129,"frozenset({'loc', 'ce'})"
+0.3096774193548387,"frozenset({'avg_cc', 'cam', 'cbo'})"
+0.3741935483870968,"frozenset({'cam', 'cbo', 'mfa'})"
+0.3225806451612903,"frozenset({'lcom3', 'cbo', 'mfa'})"
+0.3096774193548387,"frozenset({'cbo', 'dit', 'mfa'})"
+0.34838709677419355,"frozenset({'lcom3', 'cam', 'mfa'})"
+0.36774193548387096,"frozenset({'lcom3', 'cam', 'cbo'})"
+0.3032258064516129,"frozenset({'cbo', 'cam', 'dit'})"
+0.33548387096774196,"frozenset({'lcom3', 'cbo', 'dit'})"

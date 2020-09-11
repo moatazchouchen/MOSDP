@@ -1,0 +1,65 @@
+support,itemsets
+0.48148148148148145,frozenset({'avg_cc'})
+0.34814814814814815,frozenset({'moa'})
+0.35555555555555557,frozenset({'noc'})
+0.4148148148148148,frozenset({'mfa'})
+0.5555555555555556,frozenset({'rfc'})
+0.5185185185185185,frozenset({'cbo'})
+0.5111111111111111,frozenset({'max_cc'})
+0.4074074074074074,frozenset({'ic'})
+0.5333333333333333,frozenset({'dam'})
+0.5037037037037037,frozenset({'cam'})
+0.4888888888888889,frozenset({'lcom3'})
+0.37037037037037035,frozenset({'npm'})
+0.4740740740740741,frozenset({'ca'})
+0.45925925925925926,frozenset({'dit'})
+0.4222222222222222,frozenset({'cbm'})
+0.42962962962962964,frozenset({'amc'})
+0.4,frozenset({'loc'})
+0.3111111111111111,frozenset({'lcom'})
+0.8962962962962963,frozenset({'ce'})
+0.32592592592592595,"frozenset({'avg_cc', 'lcom3'})"
+0.43703703703703706,"frozenset({'avg_cc', 'ce'})"
+0.3111111111111111,"frozenset({'moa', 'ce'})"
+0.3333333333333333,"frozenset({'noc', 'ce'})"
+0.4,"frozenset({'mfa', 'ce'})"
+0.3037037037037037,"frozenset({'rfc', 'cbo'})"
+0.31851851851851853,"frozenset({'rfc', 'max_cc'})"
+0.3111111111111111,"frozenset({'lcom3', 'rfc'})"
+0.31851851851851853,"frozenset({'ca', 'rfc'})"
+0.3111111111111111,"frozenset({'rfc', 'dit'})"
+0.48148148148148145,"frozenset({'rfc', 'ce'})"
+0.3111111111111111,"frozenset({'cbo', 'max_cc'})"
+0.31851851851851853,"frozenset({'dam', 'cbo'})"
+0.34814814814814815,"frozenset({'cam', 'cbo'})"
+0.3333333333333333,"frozenset({'ca', 'cbo'})"
+0.3111111111111111,"frozenset({'cbo', 'dit'})"
+0.3111111111111111,"frozenset({'cbm', 'cbo'})"
+0.3111111111111111,"frozenset({'cbo', 'amc'})"
+0.4740740740740741,"frozenset({'cbo', 'ce'})"
+0.3333333333333333,"frozenset({'dam', 'max_cc'})"
+0.4888888888888889,"frozenset({'max_cc', 'ce'})"
+0.35555555555555557,"frozenset({'ic', 'ce'})"
+0.3111111111111111,"frozenset({'dam', 'cam'})"
+0.3037037037037037,"frozenset({'lcom3', 'dam'})"
+0.5111111111111111,"frozenset({'dam', 'ce'})"
+0.32592592592592595,"frozenset({'ca', 'cam'})"
+0.4888888888888889,"frozenset({'cam', 'ce'})"
+0.31851851851851853,"frozenset({'lcom3', 'ca'})"
+0.45925925925925926,"frozenset({'lcom3', 'ce'})"
+0.35555555555555557,"frozenset({'npm', 'ce'})"
+0.42962962962962964,"frozenset({'ca', 'ce'})"
+0.3851851851851852,"frozenset({'dit', 'ce'})"
+0.3925925925925926,"frozenset({'cbm', 'ce'})"
+0.3925925925925926,"frozenset({'amc', 'ce'})"
+0.37777777777777777,"frozenset({'loc', 'ce'})"
+0.31851851851851853,"frozenset({'avg_cc', 'lcom3', 'ce'})"
+0.3111111111111111,"frozenset({'rfc', 'max_cc', 'ce'})"
+0.3037037037037037,"frozenset({'max_cc', 'cbo', 'ce'})"
+0.3037037037037037,"frozenset({'dam', 'cbo', 'ce'})"
+0.3333333333333333,"frozenset({'cam', 'cbo', 'ce'})"
+0.3111111111111111,"frozenset({'ca', 'cbo', 'ce'})"
+0.31851851851851853,"frozenset({'dam', 'max_cc', 'ce'})"
+0.3037037037037037,"frozenset({'dam', 'cam', 'ce'})"
+0.3037037037037037,"frozenset({'lcom3', 'dam', 'ce'})"
+0.31851851851851853,"frozenset({'ca', 'cam', 'ce'})"
