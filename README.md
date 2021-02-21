@@ -1,4 +1,4 @@
-# SDP-with-Genetic-programming
+# MOSDP replication package
 Replication package for the paper "On the Performance and Interpretability of Search-based Software Defects Prediction"
 
 We provide the necessary data to replicate validation results in our study : 
