@@ -1,5 +1,4 @@
-| Dataset | Metric|Definition|
-|---------|----------|-----------|
-| Promise | WMC      | bla bla b |
-|         | LOC      | bla bla bl|
-|---------|----------|-----------|
+| column 1 | column 2 |
+|:----------:|----------|
+| value | value 1<br>value 2 |
+| value | value 1<br>value 2 |
